@@ -18,8 +18,6 @@
 
 </div>
 
-> **Coming soon**: API keys on the DrawOffer account page and the `drawoffer-mcp` npm package are being released. The steps below will work once they are live.
-
 ---
 
 [DrawOffer](https://www.drawoffer.com/en) is an AI job-search tool: AI resume editing, tailoring to job descriptions, mock interviews and application tracking. This MCP server brings your DrawOffer data into the AI tool you already use, for example:

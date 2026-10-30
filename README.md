@@ -18,8 +18,6 @@
 
 </div>
 
-> **即将上线**：DrawOffer 账号页的 API Key 功能和 npm 包 `drawoffer-mcp` 正在发布，上线后即可按下面的步骤使用。
-
 ---
 
 [DrawOffer 职绘](https://www.drawoffer.com) 是一个 AI 求职工具：AI 改简历、按岗位 JD 调整简历、AI 模拟面试和求职进度管理。这个 MCP Server 让你在自己常用的 AI 工具里直接用上 DrawOffer 里的数据，例如：
