@@ -113,7 +113,7 @@ API: every request goes to `/api/open/v1/*` with `Authorization: Bearer dok_...`
 
 - [drawoffer-skills](https://github.com/ql-link/drawoffer-skills): Agent Skills for resumes and job search
 - [drawoffer-prompts](https://github.com/ql-link/drawoffer-prompts): ready-to-use job-search prompts
-- [chinese-resume-templates](https://github.com/ql-link/chinese-resume-templates): 57 Chinese resume templates
+- [drawoffer-chinese-resume-templates](https://github.com/ql-link/drawoffer-chinese-resume-templates): 57 Chinese resume templates
 
 ## License
 

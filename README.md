@@ -111,7 +111,7 @@ DRAWOFFER_API_KEY=dok_你的Key node src/index.js
 
 - [drawoffer-skills](https://github.com/ql-link/drawoffer-skills)：简历与求职 Agent Skills
 - [drawoffer-prompts](https://github.com/ql-link/drawoffer-prompts)：复制即用的求职提示词
-- [chinese-resume-templates](https://github.com/ql-link/chinese-resume-templates)：57 套中文简历模板
+- [drawoffer-chinese-resume-templates](https://github.com/ql-link/drawoffer-chinese-resume-templates)：57 套中文简历模板
 
 ## 许可证
 
