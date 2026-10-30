@@ -1,6 +1,7 @@
 {
   "name": "drawoffer-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "mcpName": "io.github.ql-link/drawoffer-mcp",
   "description": "DrawOffer 职绘的 MCP Server：让 Claude、Cursor 等 AI 工具读取你的简历、岗位和投递记录",
   "keywords": ["mcp", "model-context-protocol", "resume", "job-search", "drawoffer", "claude", "cursor"],
   "homepage": "https://www.drawoffer.com",
