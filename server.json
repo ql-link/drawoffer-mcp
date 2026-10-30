@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.ql-link/drawoffer-mcp",
+  "title": "DrawOffer 职绘",
+  "description": "Read your DrawOffer resumes, saved jobs and applications from Claude, Cursor and other AI tools.",
+  "repository": {
+    "url": "https://github.com/ql-link/drawoffer-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://www.drawoffer.com",
+  "version": "1.0.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "drawoffer-mcp",
+      "version": "1.0.1",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "DRAWOFFER_API_KEY",
+          "description": "DrawOffer API key (starts with dok_), created in Account → API keys",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}

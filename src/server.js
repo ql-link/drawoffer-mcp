@@ -4,7 +4,7 @@ import { z } from "zod";
 import { DrawOfferError } from "./client.js";
 
 export const SERVER_NAME = "drawoffer";
-export const SERVER_VERSION = "1.0.0";
+export const SERVER_VERSION = "1.0.1";
 
 const id = z.string().regex(/^[1-9][0-9]{0,19}$/, "ID 是正整数字符串");
 
