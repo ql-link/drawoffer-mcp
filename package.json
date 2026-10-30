@@ -1,0 +1,20 @@
+{
+  "name": "drawoffer-mcp",
+  "version": "1.0.0",
+  "description": "DrawOffer 职绘的 MCP Server：让 Claude、Cursor 等 AI 工具读取你的简历、岗位和投递记录",
+  "keywords": ["mcp", "model-context-protocol", "resume", "job-search", "drawoffer", "claude", "cursor"],
+  "homepage": "https://www.drawoffer.com",
+  "repository": { "type": "git", "url": "git+https://github.com/ql-link/drawoffer-mcp.git" },
+  "bugs": { "url": "https://github.com/ql-link/drawoffer-mcp/issues" },
+  "license": "MIT",
+  "author": "ql-link",
+  "type": "module",
+  "bin": { "drawoffer-mcp": "src/index.js" },
+  "files": ["src", "README.md", "README.en.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node src/index.js", "test": "node --test \"test/**/*.test.js\"" },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^4.0.0"
+  }
+}
